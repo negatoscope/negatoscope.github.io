@@ -115,15 +115,15 @@ skills:
       - name: R
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: brands/r-project
       - name: Matlab
         description: ''
         percent: 80
-        icon: chart-bar
+        icon: brands/matlab
       - name: Unity
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: brands/unity
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
