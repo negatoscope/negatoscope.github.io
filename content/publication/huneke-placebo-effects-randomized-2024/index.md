@@ -28,8 +28,7 @@ publishDate: '2024-12-30T20:49:48.780986Z'
 publication_types:
 - article-journal
 publication: '*Molecular Psychiatry*'
-doi: 10.1038/s41380-024-02638-x
 links:
-- name: URL
-  url: https://www.nature.com/articles/s41380-024-02638-x
+- name: DOI
+  url: https://doi.org/10.1038/s41380-024-02638-x
 ---

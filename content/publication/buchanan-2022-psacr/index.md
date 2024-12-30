@@ -17,4 +17,7 @@ publishDate: '2024-12-30T13:39:11.598673Z'
 publication_types:
 - article-journal
 publication: '*Scientific Data*'
+links:
+- name: DOI
+  url: https://doi.org/10.1038/s41597-022-01811-7
 ---

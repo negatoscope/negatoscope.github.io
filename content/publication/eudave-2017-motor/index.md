@@ -13,4 +13,7 @@ publishDate: '2024-12-30T13:39:11.523495Z'
 publication_types:
 - article-journal
 publication: '*Brain Imaging and Behavior*'
+links:
+- name: DOI
+  url: https://doi.org/10.1007/s11682-016-9569-7
 ---

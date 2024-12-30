@@ -18,4 +18,7 @@ publishDate: '2024-12-30T13:39:11.585919Z'
 publication_types:
 - article-journal
 publication: '*Affective science*'
+links:
+- name: DOI
+  url: https://doi.org/10.1007/s42761-022-00128-3
 ---

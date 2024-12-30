@@ -17,4 +17,7 @@ publishDate: '2024-12-30T13:39:11.548662Z'
 publication_types:
 - article-journal
 publication: '*Proceedings of the National Academy of Sciences*'
+links:
+- name: DOI
+  url: https://doi.org/10.1073/pnas.2111091119
 ---

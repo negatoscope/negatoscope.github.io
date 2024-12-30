@@ -11,4 +11,7 @@ publishDate: '2024-12-30T13:39:11.579863Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in Aging Neuroscience*'
+links:
+- name: DOI
+  url: https://doi.org/10.3389/fnagi.2022.936661
 ---

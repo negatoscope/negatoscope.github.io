@@ -18,4 +18,7 @@ publishDate: '2024-12-30T13:39:11.561301Z'
 publication_types:
 - article-journal
 publication: '*Nature human behaviour*'
+links:
+- name: DOI
+  url: https://doi.org/10.1038/s41562-022-01319-5
 ---

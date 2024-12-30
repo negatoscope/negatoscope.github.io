@@ -18,4 +18,7 @@ publishDate: '2024-12-30T13:39:11.592422Z'
 publication_types:
 - article-journal
 publication: '*World Psychiatry*'
+links:
+- name: DOI
+  url: https://doi.org/10.1002/wps.21037
 ---

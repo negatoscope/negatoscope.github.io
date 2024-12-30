@@ -12,4 +12,7 @@ publishDate: '2024-12-30T13:39:11.529885Z'
 publication_types:
 - article-journal
 publication: '*Human Brain Mapping*'
+links:
+- name: DOI
+  url: https://doi.org/10.1002/hbm.24240
 ---

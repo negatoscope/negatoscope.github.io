@@ -9,4 +9,7 @@ publication_types:
 - paper-conference
 publication: '*2017 IEEE 14th International Conference on Wearable and Implantable
   Body Sensor Networks (BSN)*'
+links:
+- name: DOI
+  url: https://doi.org/10.1109/BSN.2017.7936028
 ---

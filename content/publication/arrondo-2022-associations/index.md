@@ -18,4 +18,7 @@ publishDate: '2024-12-30T13:39:11.567619Z'
 publication_types:
 - article-journal
 publication: '*Neuroscience & Biobehavioral Reviews*'
+links:
+- name: DOI
+  url: https://doi.org/10.1016/j.neubiorev.2022.104662
 ---

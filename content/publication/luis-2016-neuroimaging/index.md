@@ -17,4 +17,7 @@ publishDate: '2024-12-30T13:39:11.514369Z'
 publication_types:
 - article-journal
 publication: "*Journal of Alzheimer's Disease*"
+links:
+- name: DOI
+  url: https://doi.org/10.3233/jad-160006
 ---
