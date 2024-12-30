@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Navigation and VR
+date: 2022-02-28
+external_link: https://osf.io/j8qfv/?view_only=
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - VR
+  - Navigation
+  - Spatial learning
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+VR replication of the Virtual Maze task by Wamsley et al. to evaluate navigation, spatial learning and cybersickness.
 
 <!--more-->
