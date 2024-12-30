@@ -35,7 +35,7 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/negatoscope
-  - icon: fab/bluesky
+  - icon: "custom/bsky"
     url: https://bsky.app/profile/luiseudave.bsky.social
   - icon: brands/github
     url: https://github.com/negatoscope
