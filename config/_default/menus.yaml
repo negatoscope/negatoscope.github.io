@@ -8,14 +8,14 @@ main:
     url: /
     weight: 10
   - name: Projects
-    url: projects/
+    url: /#projects/
     weight: 11
   - name: Papers
     url: /#publications
     weight: 12
   - name: Education
     url: experience/
-    weight: 13
+    weight: 20
   - name: Teaching
     url: teaching/
-    weight: 14
+    weight: 30

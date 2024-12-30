@@ -54,7 +54,7 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
-    id: talks
+    id: projects
     content:
       title: Current Projects
       filters:
