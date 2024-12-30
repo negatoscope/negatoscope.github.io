@@ -109,21 +109,21 @@ education:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: R
-        #description: ''
-        percent: 80
-        icon: brands/r-project
-      - name: Matlab
-        #description: ''
-        percent: 80
-        icon: brands/matlab
-      - name: Unity
-        #description: ''
-        percent: 40
-        icon: brands/unity
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: R
+#         #description: ''
+#         percent: 80
+#         icon: brands/r-project
+#       - name: Matlab
+#         #description: ''
+#         percent: 80
+#         icon: brands/matlab
+#       - name: Unity
+#         #description: ''
+#         percent: 40
+#         icon: brands/unity
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
