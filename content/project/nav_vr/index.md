@@ -1,7 +1,7 @@
 ---
 title: Navigation and VR
 date: 2022-02-28
-external_link: https://osf.io/j8qfv/?view_only=
+external_link: https://github.com/negatoscope/VRMaze
 tags:
   - VR
   - Navigation
