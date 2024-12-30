@@ -1,16 +1,17 @@
 ---
 title: Neuropsychology
 summary: Course for 4th year Psychology students
-date: 2018
+date: 2019-09-01
 type: docs
 math: false
 tags:
   - Psychology
 image:
   caption: ''
+external_link: https://asignatura.unav.edu/NEUROP-06173-2425.pdf
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+<!-- [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
@@ -137,4 +138,4 @@ renders as
 
 {{< icon name="python" >}} Python
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->
