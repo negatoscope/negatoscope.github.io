@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/cv_eudave.pdf
+        url: https://github.com/negatoscope/negatoscope.github.io/blob/main/uploads/cv_eudave.pdf
     design:
       css_class: dark
       background:
@@ -72,7 +72,7 @@ sections:
           - project
     design:
       view: article-grid
-      columns: 1
+      columns: 3
   # - block: collection
   #   id: news
   #   content:
