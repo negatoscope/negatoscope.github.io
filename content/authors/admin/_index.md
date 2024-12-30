@@ -113,15 +113,15 @@ skills:
   - name: Technical Skills
     items:
       - name: R
-        description: ''
+        #description: ''
         percent: 80
         icon: brands/r-project
       - name: Matlab
-        description: ''
+        #description: ''
         percent: 80
         icon: brands/matlab
       - name: Unity
-        description: ''
+        #description: ''
         percent: 40
         icon: brands/unity
   # - name: Hobbies
