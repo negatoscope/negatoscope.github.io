@@ -183,4 +183,4 @@ languages:
 
 ## About Me
 
-Luis Eudave is an Assistant Professor at the University of Navarra. His research focuses on creating/adapting cognitive evaluation tools using extended reality. While recently pivoting into the study of dreams, he’s interested in how virtual reality can be used to help us understand the (visual) phenomenology of dreams.
+I am an Assistant Professor at the University of Navarra, researching the intersection of cognitive science and Extended Reality. My work utilizes a multimodal approach—combining VR with EEG and eye-tracking—to study mental imagery vividness, spatial attention, and social working memory. I am particularly interested in "objectifying the subjective," a mission that has led me from clinical biomarker validation for stroke recovery to my current exploration of the visual phenomenology of dreams.
